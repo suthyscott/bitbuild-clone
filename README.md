@@ -1,1 +1,1 @@
-Did not get to second header. I'm thinking it will need some JS logic to make it appear upon scrolling, then will use position fixed. 
+Was curious about how I would implement the second header, spent some time after the allotted hour adding it. 
