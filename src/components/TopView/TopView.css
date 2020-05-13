@@ -1,0 +1,33 @@
+.top-view {
+    background-image: url("https://bitbuild.com/wp-content/uploads/2017/12/bitbuild-bg.jpg");
+    height: 100vh;
+}
+
+.mission-info-container {
+    width: 100%;
+    text-align: center;
+    padding: 170px 0;
+}
+
+.mission-statement {
+    font-size: 90px;
+    font-weight: 9000;
+    color: white;
+}
+
+#info-button {
+    border: white solid 2px;
+    background: transparent;
+    height: 70px;
+    width: 300px;
+    border-radius: 50px;
+    font-size: 30px;
+    color: white;
+    outline: none;
+
+}
+
+#info-button:hover {
+    cursor: pointer;
+    outline: none;
+}

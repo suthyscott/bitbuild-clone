@@ -1,0 +1,70 @@
+.second-section {
+    height: 110vh;
+}
+
+.clients-partners-container {
+    text-align: center;
+    height: 20%;
+    padding: 40px 0;
+}
+
+.clients-partners-header {
+    color: rgb(7,174,234);
+    font-size: 30px;
+}
+
+.clients-partners-logos {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.clients-partners-logo {
+    width: 15%;
+    height: 30%;
+}
+
+.coding-stunt-double {
+    height: 80%;
+    display: flex;
+    padding: 30px 150px 0 150px;
+}
+
+.text-and-buttons {
+    height: 80%;
+}
+
+.stunt-double-header {
+    color: rgb(102,102,102);
+    font-size: 70px;
+}
+
+.stunt-double-paragraph {
+    color: rgb(102,102,102);
+    font-size: 25px;
+    width: 30%;
+}
+
+.half-plus-half-img {
+    background-image: url("https://bitbuild.com/wp-content/uploads/2017/11/man-bg.png");
+    background-size: cover;
+    width: 1000px;
+    height: 900px;
+    position: absolute;
+    left: 600px;
+}
+
+#start-now-button {
+    border-radius: 50px;
+    background-color: rgb(127,63,152);
+    color: white;
+    font-size: 30px;
+    height: 80px;
+    width: 300px;
+    outline: none;
+}
+
+#start-now-button:hover {
+    cursor: pointer;
+    outline: none;
+}
